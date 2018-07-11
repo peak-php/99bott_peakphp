@@ -1,0 +1,4 @@
+suites:
+    bottles_suite:
+        namespace: PeakPHP
+        psr4_prefix: PeakPHP
